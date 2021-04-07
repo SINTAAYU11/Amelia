@@ -6,7 +6,7 @@
         <b-nav-item active>About</b-nav-item>
         <b-nav-item active>Testi</b-nav-item>
         <b-nav-item active >Contact</b-nav-item>
-        <b-nav-item active>Mata Pembelajaran</b-nav-item>
+        <b-nav-item active>Mata. Pembelajaran</b-nav-item>
       </b-nav>
   </div>
     
