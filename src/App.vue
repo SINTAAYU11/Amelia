@@ -6,7 +6,6 @@
         <b-nav-item active>About</b-nav-item>
         <b-nav-item active>Testi</b-nav-item>
         <b-nav-item active >Sumber Lainnya</b-nav-item>
-        <b-nav-item active >Contact</b-nav-item>
       </b-nav>
   </div>
     
@@ -71,6 +70,7 @@
             Gunakan cara ini, demi keunggulan Anak Didik Bangsa.
           </div>
         </div>
+
         <div class="col-6 mt-5">
               <img alt="Vue logo" src="./assets/imga.jpg">
             </div>
@@ -108,16 +108,22 @@
             <div class="col-6 align-self-end mt-5">
                <img alt="logo" src="./assets/img5.png"> 
             </div>
+
          </div>
-          <div class="container">
-          <div class="font mt-5" style="font-size:25px; font-weight:bold; text-align: center; font-family: Lucida Calligraphy;">Contact</div>
-        </div>
+
         </div>
 
         <div class="container-fluid">
-        <footer class="text-center text-white" style="background-color: #f1f1f1;">
+        <footer class="text-center text-white mt-5" style="background-color: #f1f1f1;">
             <div class="container pt-4">
+               <div class="container">
+                   <div class="font" style="font-size:25px; color:black; text-align: center; font-family: Arial Rounded MT Bold;">Kunjungi Website Kami</div>
+              </div>
                 <section class="mb-4"></section>
+                <div class="baris1" style="color: black;">
+                  <p>Maribelajar@kemdikbud.go.id</p><p>Belajar@kemdikbud.go.id</p><p>Telepon (056) 156785</p><p>WA +62 813-5643-8315</p>
+                </div>
+
                 <a
                     class="btn btn-primary btn-floating m-1"
                     style="background-color: #3b5998;"
@@ -142,6 +148,7 @@
                     ><i class="fab fa-instagram"></i
                 ></a>
             </div>
+            
             <div class="text-center text-dark p-3" style="background-color: rgba(0, 0, 0, 0.2);">
               © 2020 Copyright:
               <a class="text-dark" href="https://mdbootstrap.com/">MDBootstrap.com</a>
