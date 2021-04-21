@@ -27,7 +27,7 @@
           <img alt="logo" src="./assets/img3.jpeg" style="padding-top: 50px;">
           <p style="color: black;">"Mari belajar" yang menyediakan bahan belajar serta fasilitas komunikasi yang mendukung interaksi antar komunitas. 
           Mari Belajar hadir sebagai pengganti belajar tatap muka yang dapat dimanfaatkan oleh siswa dan guru Pendidikan Anak Usia Dini (PAUD),
-          Sekolah Dasar (SD), Sekolah Menengah Pertama (SMP), Sekolah Menengah Atas/Kejuruan (SMA/SMK) sederajat. Dengan menggunakan Mari Belajar, 
+          Sekolah Dasar (SD),, Sekolah Menengah Pertama (SMP), Sekolah Menengah Atas/Kejuruan (SMA/SMK) sederajat. Dengan menggunakan Mari Belajar, 
           kita dapat belajar di mana saja, kapan saja dengan siapa saja. Seluruh konten yang ada di Rumah Belajar dapat diakses dan dimanfaatkan secara gratis.</p>
           </div>
       </div>
